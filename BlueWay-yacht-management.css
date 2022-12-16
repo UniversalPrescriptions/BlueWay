@@ -90,7 +90,10 @@ header .navbar a{
   font-size: 2rem;
   margin:0 .8rem;
 }
-
+header .navbar img{
+width: 20px;
+height: 20px;
+}
 header .navbar a:hover{
   color:var(--orange);
 }
