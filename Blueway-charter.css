@@ -113,6 +113,10 @@ section{
   margin: 0 1rem;
 }
 
+.header .navbar img{
+height: 20px;
+width: 20px;
+}
 .header .navbar a:hover{
   color: var(--secondary);
 }
